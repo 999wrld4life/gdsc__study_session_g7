@@ -1,16 +1,7 @@
 # project_2
 
-A new Flutter project.
+On this project, I did the final task of week 5 (the messaging app UI) 
+using card and listview widgets
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I've updated the previous week's task to include the navigation task
+You can find it on week 4's link
